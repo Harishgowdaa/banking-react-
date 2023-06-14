@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "coursename": "java",
+      "authorname": "harish",
+      "id": 1
+    },
+    {
+      "coursename": "sql",
+      "authorname": "pavan",
+      "id": 2
+    },
+    {
+      "coursename": "abhi",
+      "authorname": "java",
+      "id": 3
+    },
+    {
+      "coursename": "softek",
+      "authorname": "kavya gowda",
+      "id": 4
+    },
+    {
+      "coursename": "yaseen",
+      "authorname": "fubeus",
+      "id": 5
+    }
+  ]
+}
